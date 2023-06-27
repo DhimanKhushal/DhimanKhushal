@@ -4,7 +4,7 @@ Hi 👋 My name is Khushal
 I am currently pursuing B.tech in Computer Science. I started with HTML, but have really found a passion for Frontend development...
 
 * 🌍  I'm based in Patiala, Punjab
-* ✉️  You can contact me at [Singhkhusha129@gmail.com](mailto:Singhkhusha129@gmail.com)
+* ✉️  You can contact me at [Singhkhusha129@gmail.com](mailto:Singhkhushal129@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on interesting Projects
 * ⚡  I'm Secretly Spiderman.... don't tell anyone
