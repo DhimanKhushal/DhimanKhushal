@@ -1,4 +1,4 @@
-Hi 👋 My name is Khushal Singh
+Hi, Khushal Singh here!
 ==============================
 
 Web Developer & Designer
