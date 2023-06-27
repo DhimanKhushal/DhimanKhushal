@@ -7,7 +7,7 @@ I am currently pursuing B.tech in Computer Science. I started with HTML, but hav
 * ✉️  You can contact me at [Singhkhusha129@gmail.com](mailto:Singhkhushal129@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on interesting Projects
-* ⚡  I'm Secretly Spiderman.... don't tell anyone
+* ⚡  I'm Secretly Batman.... don't tell anyone
 
 <a href="https://www.github.com/Dhimankhushal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dhimankhushal?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
@@ -47,6 +47,3 @@ src="https://img.shields.io/github/followers/Dhimankhushal?logo=github&style=for
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/dhimankhushal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
