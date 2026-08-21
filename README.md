@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://itskhushal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-12172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/khushal-singh-923221241/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:singhkhushal129@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://itskhushal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-191611?style=for-the-badge&logo=vercel&logoColor=F4EBD8" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/khushal-singh-923221241/"><img src="https://img.shields.io/badge/LinkedIn-9A7B43?style=for-the-badge&logo=linkedin&logoColor=F4EBD8" alt="LinkedIn" /></a>
+  <a href="mailto:singhkhushal129@gmail.com"><img src="https://img.shields.io/badge/Email-C7A86B?style=for-the-badge&logo=gmail&logoColor=191611" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DhimanKhushal&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/DhimanKhushal?tab=followers"><img src="https://img.shields.io/github/followers/DhimanKhushal?label=Followers&style=flat-square&color=7C3AED&labelColor=12172A" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DhimanKhushal&label=Profile%20views&color=B78B45&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/DhimanKhushal?tab=followers"><img src="https://img.shields.io/github/followers/DhimanKhushal?label=Followers&style=flat-square&color=B78B45&labelColor=191611" alt="GitHub followers" /></a>
 </p>
 
 ## Product Engineering, Applied AI & Developer Training
@@ -47,9 +47,9 @@ I build role-aware web products, operational workflows, and polished client plat
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-7C3AED?style=flat-square&logo=n8n&logoColor=white" alt="n8n workflow automation" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-4F46E5?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
-  <img src="https://img.shields.io/badge/GSAP-Motion-5B21B6?style=flat-square&logo=greensock&logoColor=white" alt="GSAP motion" />
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-C7A86B?style=flat-square&logo=n8n&logoColor=191611" alt="n8n workflow automation" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-9A7B43?style=flat-square&logo=jsonwebtokens&logoColor=F4EBD8" alt="JWT authentication" />
+  <img src="https://img.shields.io/badge/GSAP-Motion-6F5A38?style=flat-square&logo=greensock&logoColor=F4EBD8" alt="GSAP motion" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ I build role-aware web products, operational workflows, and polished client plat
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhimanKhushal&bg_color=0B1020&color=E2E8F0&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhimanKhushal&bg_color=11100D&color=F4EBD8&line=B78B45&point=E0C28D&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
