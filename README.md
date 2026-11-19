@@ -23,7 +23,7 @@ I build role-aware web products, operational workflows, and polished client plat
 | Education systems | [WebLiquids Campus OS](https://webliquids.com) | Next.js, Prisma, PostgreSQL |
 | Client platforms | [CodeClousor](https://codeclousor.com) · [Azule Construction](https://azuleconstruction.au) | Next.js, Motion, Tailwind CSS |
 | Service flows | [PsychoWaves](https://psychowaves.org) · [MeMantra](https://memantra.in) · [ScoreLoom](https://scoreloom.com) | SvelteKit, Prisma, JWT, Razorpay |
-| Public builds | [Webcodder](https://github.com/DhimanKhushal/webcoder) · [Property in Vrindavan](https://github.com/DhimanKhushal/property-in-vrindavan) · [Doner Factory Mölndal](https://github.com/DhimanKhushal/donerfactorymolndal) | Next.js, TypeScript, React |
+| Public builds | [Webcodder](https://github.com/DhimanKhushal/webcoder) · [Property in Vrindavan](https://propertyinvrindavan.co.in) · [Doner Factory Mölndal](https://github.com/DhimanKhushal/donerfactorymolndal) | Next.js, TypeScript, React |
 
 ## Stack
 
